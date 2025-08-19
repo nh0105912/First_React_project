@@ -9,12 +9,15 @@ import Contact from './Component/Contact/Contact';
 import News from './Component/News/News';
 import Eventes from './Component/Eventes/Event';
 import About from './Component/About/About';
+import Ali from './Component/Ali';
 
 function App() {
   return (
     <>
     <BrowserRouter>
+    
     <Navbar/>
+
     <Routes>
       <Route path="/" element={<Home/>} />
       <Route path="/About" element={<About/>} />
