@@ -103,7 +103,7 @@ const Home = () => {
 
             <section className="mt-[20px] h-[80vh] pt-">
                 <div className="flex justify-evenly  ">
-                    <div className="w-[333px] h-[352px] bg-no-repeat bg-cover bg-center h-[300px] rounded-lg text-[white] flex flex-col justify-center items-center"
+                    <div className="w-[333px] h-[352px] bg-no-repeat bg-cover bg-center rounded-lg text-[white] flex flex-col justify-center items-center"
                         style={{
                             backgroundImage: `linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(${cycling})`
                         }}
@@ -111,7 +111,7 @@ const Home = () => {
                         <h3 className="text-[23px] font-[600] ">Cycling Events</h3>
                         <button className="px-[20px] py-[10px]  bg-[red] text-white mt-[10px] rounded-[30px]">Learn More</button>
                     </div>
-                    <div className="w-[333px] h-[352px] bg-no-repeat bg-cover bg-center h-[300px] rounded-lg text-[white] flex flex-col justify-center items-center"
+                    <div className="w-[333px] h-[352px] bg-no-repeat bg-cover bg-center rounded-lg text-[white] flex flex-col justify-center items-center"
                         style={{
                             backgroundImage: `linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(${sport})`
                         }}
@@ -119,7 +119,7 @@ const Home = () => {
                         <h3 className="text-[23px] font-[600] ">Cycling Events</h3>
                         <button className=" px-[20px] py-[10px] bg-[red] text-white mt-[10px] rounded-[30px]">Learn More</button>
                     </div>
-                    <div className="w-[333px]  h-[352px] bg-no-repeat bg-cover bg-center h-[300px] rounded-lg text-[white] flex flex-col justify-center items-center"
+                    <div className="w-[333px]  h-[352px] bg-no-repeat bg-cover bg-center  rounded-lg text-[white] flex flex-col justify-center items-center"
                         style={{
                             backgroundImage: `linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(${Event})`
                         }}
@@ -469,7 +469,7 @@ const Home = () => {
                         <h3 className="text-[23px] font-[600] ">Cycling Events</h3>
                         <button className="px-[20px] py-[10px]  bg-[red] text-white mt-[10px] rounded-[30px]">Learn More</button>
                     </div>
-                    <div className="w-[380px] h-[300px] bg-no-repeat bg-cover bg-center h-[300px] rounded-lg text-[white] flex flex-col justify-center items-center"
+                    <div className="w-[380px] h-[300px] bg-no-repeat bg-cover bg-center rounded-lg text-[white] flex flex-col justify-center items-center"
                         style={{
                             backgroundImage: `linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(${sport})`
                         }}
@@ -477,7 +477,7 @@ const Home = () => {
                         <h3 className="text-[23px] font-[600] ">Cycling Events</h3>
                         <button className=" px-[20px] py-[10px] bg-[red] text-white mt-[10px] rounded-[30px]">Learn More</button>
                     </div>
-                    <div className="w-[380px] h-[300px] bg-no-repeat bg-cover bg-center h-[300px] rounded-lg text-[white] flex flex-col justify-center items-center"
+                    <div className="w-[380px] h-[300px] bg-no-repeat bg-cover bg-center rounded-lg text-[white] flex flex-col justify-center items-center"
                         style={{
                             backgroundImage: `linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(${Event})`
                         }}
@@ -495,7 +495,7 @@ const Home = () => {
                         <h3 className="text-[23px] font-[600] ">Cycling Events</h3>
                         <button className="px-[20px] py-[10px]  bg-[red] text-white mt-[10px] rounded-[30px]">Learn More</button>
                     </div>
-                    <div className="w-[380px] h-[300px] bg-no-repeat bg-cover bg-center h-[300px] rounded-lg text-[white] flex flex-col justify-center items-center"
+                    <div className="w-[380px] h-[300px] bg-no-repeat bg-cover bg-center rounded-lg text-[white] flex flex-col justify-center items-center"
                         style={{
                             backgroundImage: `linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(${sport})`
                         }}
@@ -503,7 +503,7 @@ const Home = () => {
                         <h3 className="text-[23px] font-[600] ">Cycling Events</h3>
                         <button className=" px-[20px] py-[10px] bg-[red] text-white mt-[10px] rounded-[30px]">Learn More</button>
                     </div>
-                    <div className="w-[380px] h-[300px] bg-no-repeat bg-cover bg-center h-[300px] rounded-lg text-[white] flex flex-col justify-center items-center"
+                    <div className="w-[380px] h-[300px] bg-no-repeat bg-cover bg-center rounded-lg text-[white] flex flex-col justify-center items-center"
                         style={{
                             backgroundImage: `linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(${Event})`
                         }}
