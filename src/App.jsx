@@ -18,14 +18,14 @@ function App() {
     
     <Navbar/>
 
-    <Routes>
+     <Routes>
       <Route path="/" element={<Home/>} />
       <Route path="/About" element={<About/>} />
       <Route path="/News" element={<News/>} />
       <Route path="/Events" element={<Eventes/>} />
       <Route path="/Contact" element={<Contact/>} />
 
-    </Routes>
+    </Routes> 
     <Footer/>
     </BrowserRouter>
     </>
